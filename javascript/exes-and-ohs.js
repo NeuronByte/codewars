@@ -1,0 +1,1 @@
+XO = s => s.toLowerCase().split('x').length === s.toLowerCase().split('o').length;
