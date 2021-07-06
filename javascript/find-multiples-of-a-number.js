@@ -1,0 +1,1 @@
+findMultiples = (int, limit) => Array(Math.floor(limit/int)).fill(1).map((_x, i) => int * (i + 1));
