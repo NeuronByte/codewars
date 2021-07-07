@@ -1,1 +1,1 @@
-check = (a, x) => a.includes(x);
+check = (a, x) => a.includes(x)
