@@ -1,1 +1,1 @@
-countSheeps = sheeps => sheeps.filter(Boolean).length;
+countSheeps = s => s.filter(Boolean).length;
